@@ -1,4 +1,5 @@
 // UC5OwlwvsVmf_lXHguB6OYFw - kard
+//npm install gh-pages --save-dev 
 
 const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UC5OwlwvsVmf_lXHguB6OYFw&part=snippet%2Cid&order=date&maxResults=10';
 
